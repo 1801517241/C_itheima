@@ -13,51 +13,60 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="源文件\Work">
-      <UniqueIdentifier>{3ad75a11-6fb5-4850-bd4d-700dd9fda769}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Work_01.cpp">
-      <Filter>源文件\Work</Filter>
-    </ClCompile>
-    <ClCompile Include="Work_02.cpp">
-      <Filter>源文件\Work</Filter>
-    </ClCompile>
-    <ClCompile Include="Work_03.cpp">
-      <Filter>源文件\Work</Filter>
-    </ClCompile>
-    <ClCompile Include="Work_04.cpp">
-      <Filter>源文件\Work</Filter>
-    </ClCompile>
-    <ClCompile Include="Work_05.cpp">
-      <Filter>源文件\Work</Filter>
-    </ClCompile>
-    <ClCompile Include="Arr_01.cpp">
+    <ClCompile Include="..\Arr\Pointer_01.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Arr_02.cpp">
+    <ClCompile Include="..\Arr\Pointer_02.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Arr_03.cpp">
+    <ClCompile Include="..\Arr\Pointer_03.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Arr_04.cpp">
+    <ClCompile Include="..\Arr\Pointer_04.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Arr_05.cpp">
+    <ClCompile Include="..\Arr\Pointer_05.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Arr_06.cpp">
+    <ClCompile Include="..\Arr\Pointer_06.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Arr_07.cpp">
+    <ClCompile Include="..\Arr\Pointer_07.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Arr_08.cpp">
+    <ClCompile Include="..\Arr\Pointer_08.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Arr_09.cpp">
+    <ClCompile Include="..\Arr\Pointer_09.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Arr\Pointer_10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Arr\Pointer_11.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Arr\Pointer_12.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Arr\Pointer_13.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Arr\Pointer_14.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Arr\Pointer_15.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Arr\Pointer_16.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Arr\Pointer_17.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Arr\Pointer_18.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
