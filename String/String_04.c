@@ -18,10 +18,27 @@ int main()
 	printf("%d\n", len2);
 	printf("%d\n", len3);*/
 
-	printf("---------------strcat(拼接)---------------\n");
+	/*printf("---------------strcat(拼接)---------------\n");
 	strcat(str2, str3);
 	printf("%s\n", str2);
-	printf("%s\n", str3);
+	printf("%s\n", str3);*/
+
+	/*printf("---------------strcpy(拷贝)---------------\n");
+	strcpy(str2, str3);
+	printf("%s\n", str2);
+	printf("%s\n", str3);*/
+
+	/*printf("---------------strcmp(比较)---------------\n");
+	int res = strcmp(str1, str2);
+	printf("%d\n", res);*/
+
+	/*printf("--------------strcmp(变小写)--------------\n");
+	_strlwr(str2);
+	printf("%s\n", str2);*/
+
+	printf("--------------strcmp(变大写)--------------\n");
+	_strupr(str2);
+	printf("%s\n", str2);
 
 	return 0;
 }
