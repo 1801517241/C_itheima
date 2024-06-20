@@ -15,7 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Structure_01.cpp">
+    <ClCompile Include="Structure_01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Structure_02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Structure_03.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Structure_04.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Structure_05.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Structure_06.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
