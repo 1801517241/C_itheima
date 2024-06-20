@@ -15,7 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\Arr\String_01.cpp">
+    <ClCompile Include="..\Arr\String_01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="String_02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="String_03.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="String_04.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
