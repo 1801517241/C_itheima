@@ -18,46 +18,46 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Work_01.cpp">
+    <ClCompile Include="Work_01.c">
       <Filter>源文件\Work</Filter>
     </ClCompile>
-    <ClCompile Include="Work_02.cpp">
+    <ClCompile Include="Work_02.c">
       <Filter>源文件\Work</Filter>
     </ClCompile>
-    <ClCompile Include="Work_03.cpp">
+    <ClCompile Include="Work_03.c">
       <Filter>源文件\Work</Filter>
     </ClCompile>
-    <ClCompile Include="Work_04.cpp">
+    <ClCompile Include="Work_04.c">
       <Filter>源文件\Work</Filter>
     </ClCompile>
-    <ClCompile Include="Work_05.cpp">
+    <ClCompile Include="Work_05.c">
       <Filter>源文件\Work</Filter>
     </ClCompile>
-    <ClCompile Include="Arr_01.cpp">
+    <ClCompile Include="Arr_01.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Arr_02.cpp">
+    <ClCompile Include="Arr_02.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Arr_03.cpp">
+    <ClCompile Include="Arr_03.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Arr_04.cpp">
+    <ClCompile Include="Arr_04.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Arr_05.cpp">
+    <ClCompile Include="Arr_05.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Arr_06.cpp">
+    <ClCompile Include="Arr_06.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Arr_07.cpp">
+    <ClCompile Include="Arr_07.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Arr_08.cpp">
+    <ClCompile Include="Arr_08.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Arr_09.cpp">
+    <ClCompile Include="Arr_09.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
