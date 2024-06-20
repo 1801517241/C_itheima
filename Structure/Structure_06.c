@@ -47,6 +47,6 @@ int main()
             printf("%s的票数最多，有%d张票\n", attArr[i].name, attArr[i].Votes);
         break;
     }
-    
+
     return 0;
 }
