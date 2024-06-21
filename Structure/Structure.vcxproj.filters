@@ -33,5 +33,8 @@
     <ClCompile Include="Structure_06.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Structure_07.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
