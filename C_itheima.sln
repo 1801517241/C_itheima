@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arr", "Arr\Arr.vcxproj", "{AC894EE7-0537-47CB-BD0C-490C6113E6F4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_Arr", "Arr\Arr.vcxproj", "{AC894EE7-0537-47CB-BD0C-490C6113E6F4}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pointer", "Pointer\Pointer.vcxproj", "{C9784EFA-90AF-4245-A070-7BF29BF99356}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_Pointer", "Pointer\Pointer.vcxproj", "{C9784EFA-90AF-4245-A070-7BF29BF99356}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "String", "String\String.vcxproj", "{C62B8670-4A1A-4353-9798-8016346547F6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_String", "String\String.vcxproj", "{C62B8670-4A1A-4353-9798-8016346547F6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Structure", "Structure\Structure.vcxproj", "{4F938282-0915-4C64-8464-B0D25EF108B0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_Structure", "Structure\Structure.vcxproj", "{4F938282-0915-4C64-8464-B0D25EF108B0}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Uniom", "Uniom\Uniom.vcxproj", "{6D361083-6191-4A43-B029-C6D1EB3B0856}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_Union", "Uniom\Uniom.vcxproj", "{6D361083-6191-4A43-B029-C6D1EB3B0856}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06_Memory", "Memory\Memory.vcxproj", "{EB5F8058-B5FC-44F1-A955-E9D63E893007}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +63,14 @@ Global
 		{6D361083-6191-4A43-B029-C6D1EB3B0856}.Release|x64.Build.0 = Release|x64
 		{6D361083-6191-4A43-B029-C6D1EB3B0856}.Release|x86.ActiveCfg = Release|Win32
 		{6D361083-6191-4A43-B029-C6D1EB3B0856}.Release|x86.Build.0 = Release|Win32
+		{EB5F8058-B5FC-44F1-A955-E9D63E893007}.Debug|x64.ActiveCfg = Debug|x64
+		{EB5F8058-B5FC-44F1-A955-E9D63E893007}.Debug|x64.Build.0 = Debug|x64
+		{EB5F8058-B5FC-44F1-A955-E9D63E893007}.Debug|x86.ActiveCfg = Debug|Win32
+		{EB5F8058-B5FC-44F1-A955-E9D63E893007}.Debug|x86.Build.0 = Debug|Win32
+		{EB5F8058-B5FC-44F1-A955-E9D63E893007}.Release|x64.ActiveCfg = Release|x64
+		{EB5F8058-B5FC-44F1-A955-E9D63E893007}.Release|x64.Build.0 = Release|x64
+		{EB5F8058-B5FC-44F1-A955-E9D63E893007}.Release|x86.ActiveCfg = Release|Win32
+		{EB5F8058-B5FC-44F1-A955-E9D63E893007}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
